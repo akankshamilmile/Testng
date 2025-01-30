@@ -1,0 +1,21 @@
+Test IDS
+
+Test on Chrome
+Scenario 1: testID=PIDAS-GVCGB-PZ7EP-RRSV1
+Scenario 2: testID=ZB7EF-CSGXZ-5M21C-ZDWZL
+Scenario 3: testID=PIDAS-GVCGB-PZ7EP-RRSV1
+
+Test on IE
+Scenario 1: testID=OVJHZ-DKTDM-T6VGR-GJFON
+Scenario 2: testID=7CHYJ-PGF2R-BNPFP-4SSPF
+Scenario 3: testID=TTITP-3PNR5-FPWCQ-5C3L3
+
+Test on FireFox
+Scenario 1: testID=MIYMX-WVVXF-EZY2B-EJADA
+Scenario 2: testID=3PFHX-UQWMQ-FCKFV-PSD9C
+Scenario 3: testID=ZHU8O-SG6CV-E2UFF-IVSDJ
+
+Test on Edge
+Scenario 1: testID=UBCA9-RTWAH-H91EI-XRPKY
+Scenario 2: testID=KELMI-UAMQU-8CG3S-PGK0R
+Scenario 3: testID=AQCCP-U1B4T-NXEJC-V1X8M
